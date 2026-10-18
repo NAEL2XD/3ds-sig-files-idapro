@@ -1,2 +1,3 @@
-# 3ds-sig-files-idapro
-probably to help with reverse engineering 3ds games
+# 3DS .sig FILES FOR IDA PRO
+
+this is to (likely) help you progress on reverse engineering :)
